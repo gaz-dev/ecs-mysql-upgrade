@@ -1,6 +1,7 @@
 # ecs-mysql-upgrade
 ### Testing Overview
 All test were run against the following Docker image;
+
 https://hub.docker.com/layers/mysql/library/mysql/5.7/images/sha256-7cc32db144fe6a69f22fe68429d9cc278b9f2f2f8c9380d3ef811cadf693cbaf?context=explore
 
 #### mysqlBootstrap.sql
